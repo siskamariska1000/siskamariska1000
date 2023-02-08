@@ -4,18 +4,19 @@ Pasti kamu mau kan punya karir yang cemerlang di bidang teknologi?
 Bahkan pengen masuk perusahaan startup ternama dengan gaji 2 digit.
 Yuukk upgrade skillmu sekarang juga hanya di ITBOX!</h3>
 
-- 🔭 I’m currently working on [ITBOX](https://itbox.id/)
+- 🔭 Official Website [ITBOX](https://itbox.id/)
 
-- 👯 I’m looking to collaborate on **ITBOX**
+- 🤝 Lihat Semua Course [https://itbox.id/bundle/](https://itbox.id/bundle/)
 
-- 🤝 I’m looking for help with [https://itbox.id/bundle/](https://itbox.id/bundle/)
-
-- 💬 Ask me about **Cyber Security, Flutter, Data Sciencen**
+- 💬 Detail Course : **Cyber Security, Flutter, Data Sciencene, Dabatase Engineer, Network Engineer, Full Stack Developer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.facebook.com/people/ITBox/100067915728078/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="itbox/100067915728078/" height="30" width="40" /></a>
 <a href="https://instagram.com/itbox_id" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itbox_id" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/c/ucjosc3lzjqhhr9n3pycmlfa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucjosc3lzjqhhr9n3pycmlfa" height="30" width="40" /></a>
+</p>
+  <a href="https://linkedin.com/in/itboxindonesia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="itboxindonesia" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
