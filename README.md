@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ITBOX</h1>
-<h3 align="center">Pertama dan satu satunya Platform Belajar IT dengan skema yang siap mengupgrade skill kamu step by step dari dasar hingga mahir.
+<h3>Pertama dan satu satunya Platform Belajar IT dengan skema yang siap mengupgrade skill kamu step by step dari dasar hingga mahir.
 Pasti kamu mau kan punya karir yang cemerlang di bidang teknologi?
 Bahkan pengen masuk perusahaan startup ternama dengan gaji 2 digit.
 Yuukk upgrade skillmu sekarang juga hanya di ITBOX!</h3>
@@ -14,6 +14,8 @@ Yuukk upgrade skillmu sekarang juga hanya di ITBOX!</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://fb.com/itbox/100067915728078/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="itbox/100067915728078/" height="30" width="40" /></a>
+<a href="https://instagram.com/itbox_id" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itbox_id" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
