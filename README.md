@@ -14,9 +14,8 @@ Yuukk upgrade skillmu sekarang juga hanya di ITBOX!</h3>
 <p align="left">
 <a href="https://www.facebook.com/people/ITBox/100067915728078/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="itbox/100067915728078/" height="30" width="40" /></a>
 <a href="https://instagram.com/itbox_id" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itbox_id" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/c/ucjosc3lzjqhhr9n3pycmlfa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucjosc3lzjqhhr9n3pycmlfa" height="30" width="40" /></a>
-</p>
-  <a href="https://linkedin.com/in/itboxindonesia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="itboxindonesia" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/channel/ucjosc3lzjqhhr9n3pycmlfa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucjosc3lzjqhhr9n3pycmlfa" height="30" width="40" /></a>
+  <a href="https://linkedin.com/company/itboxindonesia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="itboxindonesia" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
