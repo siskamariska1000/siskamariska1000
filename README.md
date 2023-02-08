@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm ITBOX</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Pertama dan satu satunya Platform Belajar IT dengan skema yang siap mengupgrade skill kamu step by step dari dasar hingga mahir.
+Pasti kamu mau kan punya karir yang cemerlang di bidang teknologi?
+Bahkan pengen masuk perusahaan startup ternama dengan gaji 2 digit.
+Yuukk upgrade skillmu sekarang juga hanya di ITBOX!</h3>
 
 - 🔭 I’m currently working on [ITBOX](https://itbox.id/)
 
