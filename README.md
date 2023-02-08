@@ -8,7 +8,9 @@ Yuukk upgrade skillmu sekarang juga hanya di ITBOX!</h3>
 
 - 🤝 Lihat Semua Course [https://itbox.id/bundle/](https://itbox.id/bundle/)
 
-- 💬 Detail Course : **Cyber Security, Flutter, Data Sciencene, Dabatase Engineer, Network Engineer, Full Stack Developer**
+- 💬 Detail Course : 
+**Cyber Security
+Flutter, Data Sciencene, Dabatase Engineer, Network Engineer, Full Stack Developer**
 
 
 <h3 align="left">Languages and Tools:</h3>
