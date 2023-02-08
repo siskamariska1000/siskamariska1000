@@ -1,16 +1,11 @@
-<h1 align="center">Hi 👋, I'm ITBOX</h1>
-<h3>Pertama dan satu satunya Platform Belajar IT dengan skema yang siap mengupgrade skill kamu step by step dari dasar hingga mahir.
-Pasti kamu mau kan punya karir yang cemerlang di bidang teknologi?
-Bahkan pengen masuk perusahaan startup ternama dengan gaji 2 digit.
-Yuukk upgrade skillmu sekarang juga hanya di ITBOX!</h3>
+<h1 align="center">Hi 👋, I'm Siska Mariska</h1>
+<h3 align="center">Saya Berasal Dari Indonesia, Dan Kini Saya Adalah Seorang Digital Marketing.</h3>
 
-- 🔭 Official Website [ITBOX](https://itbox.id/)
+- 🔭 Saya Bekerja di, [ITBOX](https://itbox.id/)
 
-- 🤝 Lihat Semua Course [https://itbox.id/bundle/](https://itbox.id/bundle/)
+- 👯 I’m looking to collaborate on **ITBOX**
 
-- 💬 Detail Course : 
-**Cyber Security
-Flutter, Data Sciencene, Dabatase Engineer, Network Engineer, Full Stack Developer**
+- 🤝 Mau Lihat Product ITBOX ? [Lihat Disini](https://itbox.id/bundle/)
 
 
 <h3 align="left">Languages and Tools:</h3>
